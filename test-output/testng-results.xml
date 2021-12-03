@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-02T16:05:48 IST" name="Default suite" finished-at="2021-12-02T16:06:07 IST" duration-ms="18411">
+    <groups>
+    </groups>
+    <test started-at="2021-12-02T16:05:48 IST" name="Default test" finished-at="2021-12-02T16:06:07 IST" duration-ms="18411">
+      <class name="pack1.GridExample">
+        <test-method signature="mailTest()[pri:0, instance:pack1.GridExample@67c33749]" started-at="2021-12-02T16:05:48 IST" name="mailTest" finished-at="2021-12-02T16:06:07 IST" duration-ms="18326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mailTest -->
+      </class> <!-- pack1.GridExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

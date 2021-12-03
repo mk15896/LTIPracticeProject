@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 134.706 s <<< FAILURE! - in TestSuite
+pack1.CrossBrowser.setup[firefox](0)  Time elapsed: 117.085 s  <<< FAILURE!
+org.openqa.selenium.TimeoutException: 
+No connection could be made because the target machine actively refused it. (os error 10061)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ADMIN-PC', ip: '192.168.123.226', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '16.0.1'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: 
+	at pack1.CrossBrowser.setup(CrossBrowser.java:18)
+
