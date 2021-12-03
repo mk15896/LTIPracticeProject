@@ -14,7 +14,7 @@ public class WebdriverEx {
 		
 		driver.get("https://www.google.com/");
 		
-		System.out.println(driver.getTitle());
+		System.out.println("Page title is "+driver.getTitle());
 		driver.manage().window().maximize();
 		
 		driver.close();
